@@ -1,0 +1,26 @@
+h1{
+	color: green;
+	margin-left: 200px;
+	padding-left: 200px;
+}
+
+p{
+	color: red;
+	margin-left: 200px;
+	padding-left: 200px;
+}
+
+h4{
+	color: blue;
+	margin-left: 200px;
+	padding-left: 200px;
+}
+
+body{
+	border: 5px solid red;
+	}
+
+a{
+	color:green;
+	margin-left: 600px;
+}

@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+}
+
+
+
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 20px;
+    color:black;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+    
+h2{
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size: 100px;
+ text-transform: capitalize;
+ color: rosybrown;
+}
+
+h1{
+    color: purple;
+    background-color:yellow;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.login button{
+    color: rgb(255, 0, 0);
+    background-color: rgb(234, 255, 0);
+    border-radius: 5px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 700px;   
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 0px;
+}

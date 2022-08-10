@@ -1,0 +1,16 @@
+h2{
+	color:red;
+	text-transform: capitalize;
+	margin-left: 400px
+
+}
+
+body{
+	background-color: yellow;
+}
+
+input{
+	border: 5px;
+	margin-left: 400px;
+	
+}
